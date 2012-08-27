@@ -1,0 +1,445 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\gamefont.xnb</Output>
+      <Time>2012-02-12T01:30:51.58361+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\menufont.xnb</Output>
+      <Time>2012-02-10T01:08:12.0193051+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ScoreFont.spritefont</Source>
+      <Name>ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\ScoreFont.xnb</Output>
+      <Time>2012-02-10T01:08:12.035306+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleFont.spritefont</Source>
+      <Name>TitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\TitleFont.xnb</Output>
+      <Time>2012-02-10T01:08:12.10431+01:00</Time>
+    </Item>
+    <Item>
+      <Source>dobarFontJe.spritefont</Source>
+      <Name>dobarFontJe</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\dobarFontJe.xnb</Output>
+      <Time>2012-07-12T17:30:00.8052778+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cloud1.png</Source>
+      <Name>cloud1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\cloud1.xnb</Output>
+      <Time>2012-02-25T00:21:32.6014131+01:00</Time>
+    </Item>
+    <Item>
+      <Source>cloud2.png</Source>
+      <Name>cloud2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\cloud2.xnb</Output>
+      <Time>2012-02-10T01:08:33.505534+01:00</Time>
+    </Item>
+    <Item>
+      <Source>laser.png</Source>
+      <Name>laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\laser.xnb</Output>
+      <Time>2012-02-24T19:49:57.1816965+01:00</Time>
+    </Item>
+    <Item>
+      <Source>shipAnimation.png</Source>
+      <Name>shipAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\shipAnimation.xnb</Output>
+      <Time>2012-02-24T19:49:42.5788612+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mineAnimation.png</Source>
+      <Name>mineAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\mineAnimation.xnb</Output>
+      <Time>2012-02-25T18:37:34.3808554+01:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\explosion.xnb</Output>
+      <Time>2012-02-11T23:35:00.9050539+01:00</Time>
+    </Item>
+    <Item>
+      <Source>endMenu.png</Source>
+      <Name>endMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\endMenu.xnb</Output>
+      <Time>2012-02-23T22:09:49.7399458+01:00</Time>
+    </Item>
+    <Item>
+      <Source>health.png</Source>
+      <Name>health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\health.xnb</Output>
+      <Time>2012-02-24T20:27:32.9687201+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenu.png</Source>
+      <Name>mainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\mainMenu.xnb</Output>
+      <Time>2012-02-23T19:10:27.9074041+01:00</Time>
+    </Item>
+    <Item>
+      <Source>reset.png</Source>
+      <Name>reset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\reset.xnb</Output>
+      <Time>2012-02-23T19:31:08.4993619+01:00</Time>
+    </Item>
+    <Item>
+      <Source>button_help.png</Source>
+      <Name>button_help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\button_help.xnb</Output>
+      <Time>2012-02-23T19:41:35.669234+01:00</Time>
+    </Item>
+    <Item>
+      <Source>button_highScores.png</Source>
+      <Name>button_highScores</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\button_highScores.xnb</Output>
+      <Time>2012-02-23T19:41:35.6762344+01:00</Time>
+    </Item>
+    <Item>
+      <Source>button_newGame.png</Source>
+      <Name>button_newGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\button_newGame.xnb</Output>
+      <Time>2012-02-23T19:41:35.6812347+01:00</Time>
+    </Item>
+    <Item>
+      <Source>button_options.png</Source>
+      <Name>button_options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\button_options.xnb</Output>
+      <Time>2012-02-23T19:41:35.686235+01:00</Time>
+    </Item>
+    <Item>
+      <Source>button_quit.png</Source>
+      <Name>button_quit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\button_quit.xnb</Output>
+      <Time>2012-02-23T19:41:35.6942354+01:00</Time>
+    </Item>
+    <Item>
+      <Source>button_resume.png</Source>
+      <Name>button_resume</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\button_resume.xnb</Output>
+      <Time>2012-02-23T19:41:35.7002358+01:00</Time>
+    </Item>
+    <Item>
+      <Source>backgroundScreen.png</Source>
+      <Name>backgroundScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\backgroundScreen.xnb</Output>
+      <Time>2012-02-23T20:58:34.8444357+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bground.png</Source>
+      <Name>bground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\bground.xnb</Output>
+      <Time>2012-02-23T21:00:42.0977142+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bck.png</Source>
+      <Name>bck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\bck.xnb</Output>
+      <Time>2012-02-23T21:03:53.0576365+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bgr.jpg</Source>
+      <Name>bgr</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\bgr.xnb</Output>
+      <Time>2012-02-23T21:09:00.5752255+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bullets.png</Source>
+      <Name>bullets</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\bullets.xnb</Output>
+      <Time>2012-02-25T18:18:42.6371234+01:00</Time>
+    </Item>
+    <Item>
+      <Source>stone.png</Source>
+      <Name>stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\stone.xnb</Output>
+      <Time>2012-02-29T23:43:52.638534+01:00</Time>
+    </Item>
+    <Item>
+      <Source>rocket.png</Source>
+      <Name>rocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\rocket.xnb</Output>
+      <Time>2012-02-25T02:45:55.7499168+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bgLayer1a.png</Source>
+      <Name>bgLayer1a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\bgLayer1a.xnb</Output>
+      <Time>2012-03-04T17:04:38.1865688+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bgLayer2a.png</Source>
+      <Name>bgLayer2a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\bgLayer2a.xnb</Output>
+      <Time>2012-02-25T00:47:06.8451668+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mainbackgrounda.png</Source>
+      <Name>mainbackgrounda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\mainbackgrounda.xnb</Output>
+      <Time>2012-02-25T00:58:05.0188122+01:00</Time>
+    </Item>
+    <Item>
+      <Source>specialBag.png</Source>
+      <Name>specialBag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\specialBag.xnb</Output>
+      <Time>2012-02-25T17:23:08.3024104+01:00</Time>
+    </Item>
+    <Item>
+      <Source>helpWindow1.png</Source>
+      <Name>helpWindow1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\helpWindow1.xnb</Output>
+      <Time>2012-03-01T01:35:40.7781101+01:00</Time>
+    </Item>
+    <Item>
+      <Source>helpWindow2.png</Source>
+      <Name>helpWindow2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\helpWindow2.xnb</Output>
+      <Time>2012-03-01T01:35:41.3631436+01:00</Time>
+    </Item>
+    <Item>
+      <Source>rockets.png</Source>
+      <Name>rockets</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\rockets.xnb</Output>
+      <Time>2012-02-29T23:16:28.0944715+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mineAnimation1.png</Source>
+      <Name>mineAnimation1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\mineAnimation1.xnb</Output>
+      <Time>2012-02-29T23:20:02.1007119+01:00</Time>
+    </Item>
+    <Item>
+      <Source>helpWindow3.png</Source>
+      <Name>helpWindow3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\helpWindow3.xnb</Output>
+      <Time>2012-03-01T02:38:04.3312291+01:00</Time>
+    </Item>
+    <Item>
+      <Source>backgroundMenu.jpg</Source>
+      <Name>backgroundMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\backgroundMenu.xnb</Output>
+      <Time>2012-02-23T21:09:00.5752255+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenu1_demo.png</Source>
+      <Name>mainMenu1_demo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\mainMenu1_demo.xnb</Output>
+      <Time>2012-03-16T17:31:55.7158472+01:00</Time>
+    </Item>
+    <Item>
+      <Source>endMenu_demo.png</Source>
+      <Name>endMenu_demo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\endMenu_demo.xnb</Output>
+      <Time>2012-03-16T18:09:11.9036699+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\explosion.wav</Source>
+      <Name>sound\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\sound\explosion.xnb</Output>
+      <Time>2012-02-23T23:09:30.7077654+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\laserFire.wav</Source>
+      <Name>sound\laserFire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\sound\laserFire.xnb</Output>
+      <Time>2012-03-01T18:48:51.4470799+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menuMusic.mp3</Source>
+      <Name>menuMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\menuMusic.xnb</Output>
+      <Extra>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\menuMusic.wma</Extra>
+      <Time>2012-03-04T17:38:39.3516728+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\mainMenuMusic.wma</Source>
+      <Name>sound\mainMenuMusic</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\sound\mainMenuMusic.xnb</Output>
+      <Extra>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\sound\mainMenuMusic.wma</Extra>
+      <Time>2012-03-04T17:47:00.6833474+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{218D0016-C2DA-4E50-A8B7-CE49A1F3D210}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-07-12T22:30:20.8530842+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

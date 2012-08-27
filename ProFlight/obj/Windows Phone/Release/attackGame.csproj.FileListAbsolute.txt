@@ -1,0 +1,121 @@
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\gamefont.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\menufont.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\ScoreFont.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\TitleFont.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\dobarFontJe.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\cloud1.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\cloud2.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\laser.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\shipAnimation.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\mineAnimation.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\explosion.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\endMenu.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\health.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\mainMenu.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\reset.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\button_help.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\button_highScores.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\button_newGame.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\button_options.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\button_quit.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\button_resume.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\backgroundScreen.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\bground.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\bck.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\bgr.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\backgroundMenu.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\bullets.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\stone.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\rocket.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\bgLayer1a.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\bgLayer2a.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\mainbackgrounda.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\specialBag.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\helpWindow1.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\helpWindow2.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\rockets.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\mineAnimation1.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\helpWindow3.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\sound\explosion.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\sound\laserFire.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\menuMusic.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\menuMusic.wma
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\attackGame.dll
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\attackGame.pdb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\obj\Windows Phone\Release\attackGame.dll
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\obj\Windows Phone\Release\attackGame.pdb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\obj\Windows Phone\Release\WMAppManifest.xml
+bin\Windows Phone\Release\
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\attackGame.xap
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\obj\Windows Phone\Release\XapCacheFile.xml
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\sound\mainMenuMusic.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\sound\mainMenuMusic.wma
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\mainMenu1_demo.xnb
+C:\Users\Ivan\Desktop\wp7 app Challange\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\endMenu_demo.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\gamefont.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\menufont.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\ScoreFont.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\TitleFont.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\dobarFontJe.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\cloud1.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\cloud2.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\laser.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\shipAnimation.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\mineAnimation.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\explosion.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\endMenu.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\health.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\mainMenu.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\reset.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\button_help.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\button_highScores.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\button_newGame.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\button_options.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\button_quit.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\button_resume.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\backgroundScreen.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\bground.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\bck.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\bgr.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\bullets.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\stone.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\rocket.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\bgLayer1a.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\bgLayer2a.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\mainbackgrounda.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\specialBag.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\helpWindow1.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\helpWindow2.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\rockets.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\mineAnimation1.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\helpWindow3.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\backgroundMenu.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\mainMenu1_demo.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\endMenu_demo.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\sound\explosion.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\sound\laserFire.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\menuMusic.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\sound\mainMenuMusic.xnb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\menuMusic.wma
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\Content\sound\mainMenuMusic.wma
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\attackGame.dll
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\attackGame.pdb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\obj\Windows Phone\Release\attackGame.dll
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\obj\Windows Phone\Release\attackGame.pdb
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\obj\Windows Phone\Release\WMAppManifest.xml
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\attackGame.xap
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\obj\Windows Phone\Release\XapCacheFile.xml
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\attackGame.xap
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\obj\Windows Phone\Release\XapCacheFile.xml
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\Ivan\Desktop\ZavrsniRad\attackGame\attackGame\attackGame\obj\Windows Phone\Release\WMAppManifest.xml
+bin\Windows Phone\Release\
